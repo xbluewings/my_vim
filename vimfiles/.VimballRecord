@@ -1,0 +1,2 @@
+visincr.vba: call delete('e:\vimfiles/plugin/visincrPlugin.vim')|call delete('e:\vimfiles/autoload/visincr.vim')|call delete('e:\vimfiles/doc/visincr.txt')|call delete('e:\vimfiles/autoload/calutil.vim')
+supertab.vba: call delete('e:\vimfiles/doc/supertab.txt')|call delete('e:\vimfiles/plugin/supertab.vim')
