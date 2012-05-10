@@ -208,5 +208,6 @@ autocmd BufRead,BufNewFile *.txt,README,TODO,CHANGELOG,NOTES
 " scroll in insert mode
 inoremap <C-E> <C-X><C-E>
 inoremap <C-Y> <C-X><C-Y>
+inoremap <c-f> <c-x><c-f>
 
 "set scrolloff=999
